@@ -1,6 +1,6 @@
 
 ### 🙋‍♂️: About Me :
-I am a Full Stack Developer  <img align="right" alt="Coding" width="400" src=" https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI2ZDE3Y2ZjYzdmMWM5ZjMwZDc0MzNhYjQwOGVmZjUyY2RiYTJlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/WUlplcMpOCEmTGBtBW/giphy.gif "> from Portugal.
+I am a Full Stack Developer <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> from Portugal.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.

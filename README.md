@@ -1,6 +1,6 @@
 
 ### 🙋‍♂️: About Me :
-I am a Full Stack Developer <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> from Portugal.
+I am a Full Stack Developer <img src="https://giphy.com/gifs/selfcare-the-app-tru-luv-WUlplcMpOCEmTGBtBW"/> from Portugal.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.

@@ -15,4 +15,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Csharp" **alt="Csharp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angularjs-original-wordmark.svg" title="Angular **alt="Angular" width="40" height="40"/>
 </div>

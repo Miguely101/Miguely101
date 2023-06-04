@@ -1,5 +1,5 @@
 
-###  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="40"/> : About Me :
+###  <img src="https://media.giphy.com/media/4jW2WA1PHmJiGdX7Td/giphy.gif" width="60"/> : About Me :
 I am a Full Stack Developer from Portugal.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -8,13 +8,13 @@ I am a Full Stack Developer from Portugal.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 ---
 
-### <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="50"/>  My Stats :
+### <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="60"/>  My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguely101&theme=dark&hide_border=true&border_radius=5&card_width=500&type=png)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguely101&theme=dark&hide_border=true&border_radius=5&card_width=500&type=png)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="60"/> Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

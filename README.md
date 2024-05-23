@@ -5,7 +5,6 @@ I am a Full Stack Developer from Portugal.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 ---
 
 ### <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="60"/>  : My Stats :

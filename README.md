@@ -21,7 +21,5 @@ I am a Full Stack Developer from Portugal.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Csharp" **alt="Csharp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular **alt="Angular" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelt **alt="Svelt" width="40" height="40"/>
 </div>
